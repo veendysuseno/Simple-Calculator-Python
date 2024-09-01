@@ -25,11 +25,11 @@ Here’s a sample interaction with the program:
 
 - ========== SIMPLE CALCULATOR ==========
 - Choose an operation:
-- 1. Addition (+)
-- 2. Subtraction (-)
-- 3. Multiplication (\*)
-- 4. Division (/)
-- 5. Exit
+- 1. **Addition (+)**
+- 2. **Subtraction (-)**
+- 3. **Multiplication (\*)**
+- 4. **Division (/)**
+- 5. **Exit**
 - =================================
 - Enter your choice (1-5): 1
 - Enter value 1: 10
