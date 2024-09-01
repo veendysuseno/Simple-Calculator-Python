@@ -30,7 +30,7 @@ Here’s a sample interaction with the program:
 - 3. **Multiplication (\*)**
 - 4. **Division (/)**
 - 5. **Exit**
-- =================================
+- ===================================
 - Enter your choice (1-5): 1
 - Enter value 1: 10
 - Enter value 2: 5
